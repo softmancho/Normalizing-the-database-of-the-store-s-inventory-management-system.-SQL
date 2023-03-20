@@ -1,2 +1,3 @@
 # Normalizing-the-database-of-the-store-s-inventory-management-system.-SQL
 Normalizing the database of the store’s inventory management system. SQL
+One of my most proud projects was when I worked as a consultant for Bhejane Trading, an online retailer specializing in the sale of COVID-related essential items. I was tasked with the objective of normalizing their database to bring it into 3rd Normal Form (3NF). The database had 2 tables (products and transactions) that were initially unnormalized. Through my efforts, I successfully normalized the database, which greatly improved the store’s inventory management system.
